@@ -1,7 +1,8 @@
 import validation as v
 import const as c
 
-class User():
+class User:
+    
     def __init__(self, dni, nombre, direccion, telefono):
         self.dni = dni
         self.nombre = nombre

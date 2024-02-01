@@ -1,2 +1,2 @@
-u = "users.txt"
-p = "peliculas.txt"
+u = "txts/users.txt"
+p = "txts/peliculas.txt"
