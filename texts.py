@@ -1,5 +1,5 @@
 mpr = "1.Gestion Usuario.\n2.Gestion Pelicula.\n3.Ver todas las peliculas.\n4.Salir.\n"
-mu = "1..\n2..\n3..\n"
+mu = "1.Modificar datos.\n2.Eliminar user.\n3.Atras.\n"
 mp = "1..\n2..\n3..\n"
 bv = "Bienvenido a la app de Videoclub"
 dp = "Gracias por elegirnos, vuelva pronto"
